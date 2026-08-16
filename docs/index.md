@@ -1,6 +1,6 @@
 # LOONA Fab Archive
 
-Use the navigation on the left to browse an archive of Fab messages.  
+Use the navigation on the left to browse an archive of [Fab](https://en.namu.wiki/w/Fab) messages.  
   
 Messages translated using Papago Translate.  
   
