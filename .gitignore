@@ -2,4 +2,5 @@
 /.cache/
 /.github/
 /.git/
-/.site/
+/site/
+.gitignore
