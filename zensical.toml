@@ -304,8 +304,6 @@ toggle.name = "Switch to light mode"
 [[project.extra.social]]
 icon = "fontawesome/brands/x-twitter"
 link = "https://twitter.com/daltontheworld"
-
-[[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/daltonjayrose"
 
