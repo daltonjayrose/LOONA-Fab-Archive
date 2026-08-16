@@ -17,7 +17,7 @@ site_name = "LOONA Fab Archive"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "An archive of Fab chat messages from the members of LOONA."
+site_description = "An archive of [Fab](https://en.namu.wiki/w/Fab) messages from the members of LOONA."
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -304,6 +304,8 @@ toggle.name = "Switch to light mode"
 [[project.extra.social]]
 icon = "fontawesome/brands/x-twitter"
 link = "https://twitter.com/daltontheworld"
+
+[[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/daltonjayrose"
 
